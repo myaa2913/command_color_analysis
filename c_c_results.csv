@@ -1,0 +1,301 @@
+SCENARIO,Date Code,Codex,BFV,Army,Matt,Steve,HISTORICAL WINNER
+Battle of Akragas - 406 BC,-406.0,001,5,Syracusan,,,Carthage
+,,,,Carthage,,,
+Crimissos River - 341 BC,-341.0,002,5,Syracusan,,,Syracusan
+,,,,Carthage,,,
+Bagradas - 253 BC,-253.0,003,7,Roman,7,6,Carthage
+,,,,Carthage,7,6,
+Ticinus River - 218 BC,-218.6,004,6,Roman,,,Carthage
+,,,,Carthage,,,
+Terbbia - 218 BC,-218.4,005,7,Roman,7,7,Carthage
+,,,,Carthage,3,5,
+Lake Trasimenus - 217 BC,-217.0,006,6,Roman,,,Carthage
+,,,,Carthage,,,
+Cannae - 216 BC,-216.0,007,7,Roman,,,Carthage
+,,,,Carthage,,,
+Dertosa - 215 BC,-215.0,008,6,Roman,,,Roman
+,,,,Carthage,,,
+2nd Battle Beneventum - 214 BC,-214.0,009,7,Roman,4,7,Roman
+,,,,Carthage,5,7,
+Castulo - 211 BC,-211.0,010,8,Roman,,,Carthage
+,,,,Carthage,,,
+Baecula - 208 BC,-208.0,011,6,Roman,,,Roman
+,,,,Carthage,,,
+Metaurus - 207 BC,-207.0,012,7,Roman,7,7,Roman
+,,,,Carthage,6,2,
+Ilipa - 206 BC,-206.0,013,7,Roman,3,7,Roman
+,,,,Carthage,1,7,
+Great Planes - 203 BC,-203.0,014,6,Roman,6,6,Roman
+,,,,Carthage,2,4,
+Zama - 202 BC,-202.0,015,8,Roman,6,8,Roman
+,,,,Carthage,7,8,
+Marathon - 490 BC,-490.0,101,6,Persian,,,Greek
+,,,,Greek,,,
+Himera - 480 BC,-480.0,102,6,Syracusan,,,Syracusan
+,,,,Carthage,,,
+Plataea - 479 BC,-479.0,103,5,Persian,,,Greek
+,,,,Greek,,,
+Leuctra - 371 BC,-371.0,104,4,Spartan,4,0,Thebans
+,,,,Theban,4,3,
+Mantinea - 362 BC,-362.0,105,6,Spartan,3,6,Thebans
+,,,,Theban,2,6,
+Crocus Plain - 352 BC,-352.0,106,6,Phocian,4,6,Macedonian
+,,,,Macedonian,3,6,
+Granicus - 334 BC,-334.0,107,6,Persian,,,Macedonian
+,,,,Macedonian,,,
+Issus - 333 BC,-333.6,108,8,Persian,,,Macedonian
+,,,,Macedonian,,,
+Gaugamela - 331 BC,-331.0,109,7,Persian,,,Macedonian
+,,,,Macedonian,,,
+Jaxartes River - 328 BC,-328.0,110,5,Scythian,,,Macedonian
+,,,,Macedonian,,,
+Hydaspes - 326 BC,-326.0,111,7,Indian,,,Macedonian
+,,,,Macedonian,,,
+Hellespont - 323 BC,-323.0,112,6,Eumenes,,,Eumenes
+,,,,Craterus,,,
+Paraitacene - 317 BC,-317.0,113,7,Eumenes,3,7,Draw
+,,,,Antigonus,4,7,
+Gabiene - 316 BC,-316.4,114,7,Eumenes,7,4,Antigonus
+,,,,Antigonus,7,3,
+Ipsus - 301 BC,-301.0,115,8,Seleucus,,,Seleucus
+,,,,Antigonus,,,
+Heraclea - 280 BC,-280.0,116,7,Roman,7,4,Epirote
+,,,,Epirote,7,0,
+Asculum - 279 BC,-279.0,117,6,Roman,6,6,Epirote
+,,,,Epirote,4,5,
+Beneventum - 275 BC,-275.0,118,7,Roman,,,Roman
+,,,,Epirote,,,
+Raphia - 217 BC,-217.0,119,8,Seleucid,8,8,Ptolemaic
+,,,,Ptolemaic,3,6,
+Cynoscephalae - 197 BC,-197.0,120,6,Roman,,,Roman
+,,,,Macedonian,,,
+Magnesia - 190 BC,-190.0,121,7,Roman,,,Roman
+,,,,Seleucid,,,
+Cronium - 376 BC,-376.0,122,7,Syracusan,5,7,Carthage
+,,,,Carthage,4,7,
+Indus - 306 BC,-306.0,123,6,Indian,,6,Indian
+,,,,Seleucid,4,,
+Pydna - 168 BC,-168.0,124,8,Roman,5,8,Roman
+,,,,Macedonian,2,8,
+Clusium - 225 BC,-225.6,201,6,Roman,,,Gauls
+,,,,Gauls,,,
+Telamon - 225 BC,-225.4,202,8,Roman,,,Roman
+,,,,Gauls,,,
+Clastidium - 222 BC,-222.0,203,4,Roman,,,Roman
+,,,,Gauls,,,
+Arausio - 105 BC,-105.0,204,7,Roman,,,Germanic Tribes
+,,,,Germanic Tribes,,,
+Scirthaea - 103 BC,-103.0,205,6,Roman,,,Roman
+,,,,Slaves,,,
+Aquae Sextiae - 102 BC,-102.0,206,6,Roman,,,Roman
+,,,,Germanic Tribes,,,
+Vercellae - 101 BC,-101.0,207,8,Roman,8,3,Roman
+,,,,Germanic Tribes,8,4,
+Mount Vesuvius - 73 BC,-73.0,208,5,Roman,,,Slave Army
+,,,,Slave Army,,,
+Mount Garganus - 72 BC,-72.8,209,6,Roman,,,Roman
+,,,,Slave Army,,,
+Picenum - 72 BC,-72.6,210,8,Roman,,,Slave Army
+,,,,Slave Army,,,
+Mummius' Defeat - 72 BC,-72.4,211,5,Roman,,,Slave Army
+,,,,Slave Army,,,
+Bruttium - 71 BC,-71.6,212,6,Roman,,,Slave Army
+,,,,Slave Army,,,
+Camalatrum - 71 BC,-71.4,213,6,Roman,,6,Roman
+,,,,Slave Army,4,,
+Silarus - 71 BC,-71.2,214,6,Roman,,,Roman
+,,,,Slave Army,,,
+River Sabis - 57 BC,-57.0,215,8,Roman,,,Roman
+,,,,Belgic Tribes,,,
+Sotium - 56 BC,-56.0,216,6,Roman,,,Roman
+,,,,Gauls,,,
+Invasion Britain - 55 BC,-55.0,217,7,Roman,,,Roman
+,,,,Britons,,,
+River Stour - 54 BC,-54.8,218,6,Roman,,,Roman
+,,,,Britons,,,
+Foraging Party - 54 BC,-54.6,219,6,Roman,,,Roman
+,,,,Britons,,,
+Teutoburger Wald pt 1 Ambush - 9 AD,9.2,220,6,Roman,,,Germanic Tribes
+,,,,Germanic Tribes,,,
+Teutoburger Wald pt 2 Camp - 9 AD,9.4,221,6,Roman,,,Germanic Tribes
+,,,,Germanic Tribes,,,
+Angrivarii Rampart - 16 AD,15.0,222,6,Roman,,,Roman
+,,,,Germanic Tribes,,,
+Cefn Carnedd - 51 AD,51.0,223,6,Roman,,,Roman
+,,,,Britons,,,
+Colline Gate - 82 BC,-82.0,301,5,Roman,,,Roman
+,,,,Samnite,,,
+Baetis River - 80 BC,-80.0,302,6,Roman,,,Sertorian
+,,,,Sertorian,,,
+Lauron - 76 BC,-76.0,303,7,Roman,,,Sertorian
+,,,,Sertorian,,,
+Valentia - 75 BC,-75.8,304,6,Roman,,,Roman
+,,,,Sertorian,,,
+Sucro - 75 BC,-75.6,305,6,Roman,,,Sertorian
+,,,,Sertorian,,,
+Bibracte - 58 BC,-58.6,306,7,Roman,,,Roman
+,,,,Helvetti,,,
+Plain of Alsace - 58 BC,-58.4,307,7,Roman,,,Roman
+,,,,Germanic Tribes,,,
+Gergovia - 52 BC,-52.0,308,8,Roman,,,Gauls
+,,,,Gauls,,,
+Ilerda - 49 BC,-49.8,309,7,Caesarian,,,Draw
+,,,,Pompeian,,,
+Utica pt 1 Delaying Action - 49 BC,-49.6,310,4,Caesarian,,,Caesarian
+,,,,Numidian,,,
+Utica pt 2 The Valley - 49 BC,-49.4,311,5,Caesarian,,,Caesarian
+,,,,Pompeian,,,
+Bagradas River - 49 BC,-49.2,312,5,Caesarian,,,Numidian
+,,,,Numidian,,,
+Brindisi Raid - 48 BC,-48.8,313,6,Caesarian,,,Caesarian
+,,,,Pompeian,,,
+Dyrrhachium - 48 BC,-48.6,314,6,Caesarian,,,Caesarian
+,,,,Pompeian,,,
+Pharsalus - 48 BC,-48.4,315,7,Caesarian,,,Caesarian
+,,,,Pompeian,,,
+Zela - 47 BC,-47.0,316,7,Caesarian,,,Caesarian
+,,,,Pontic,,,
+Ruspina - 46 BC,-46.6,317,5,Caesarian,,,Caesarian
+,,,,Numidian,,,
+Thapsus - 46 BC,-46.4,318,7,Caesarian,,,Caesarian
+,,,,Pompeian,,,
+Munda - 45 BC,-45.0,319,8,Caesarian,,,Caesarian
+,,,,Pompeian,,,
+Tigranocerta - 69 BC,-69.0,401,6,Roman,,,Roman
+,,,,Armenian,,,
+Carrhae - 53 BC,-53.0,402,7,Roman,,,Parthian
+,,,,Parthian,,,
+Philippi I - 42 BC,-42.8,403,8,Triumvirate,,,Triumvirate
+,,,,Republican,,,
+Philippi II - 42 BC,-42.6,404,7,Triumvirate,4,2,Triumvirate
+,,,,Republican,7,7,
+Cilician Gates - 39 BC,-39.0,405,6,Roman,,,Roman
+,,,,Parthian,,,
+Antony's Siege Train - 36 BC,-36.0,406,6,Roman,,,Parthian
+,,,,Parthian,,,
+Medway - 43 AD,43.0,407,6,Roman,,,Roman
+,,,,Britons,,,
+Boudica's Revolt Watling Street - 61 AD,61.0,408,8,Roman,,,Roman
+,,,,Britons,,,
+1st Battle of Bedriacum - 69 AD,69.0,409,5,Otho,,,Vitellus
+,,,,Vitellus,,,
+Mons Graupius - 84 AD,84.0,410,6,Roman,,,Roman
+,,,,Britons,,,
+Issus - 194 AD,194.0,411,7,Severus,,,Severus
+,,,,Niger,,,
+Lugdunum - 197 AD,197.0,412,9,Severus,,,Severus
+,,,,Albinus,,,
+Nisibis - 217 AD,217.0,413,8,Roman,,,Draw
+,,,,Parthian,,,
+Hormuz - 226 AD,226.0,414,6,Persian,,,Persian
+,,,,Parthian,,,
+Carthage - 238 AD,238.0,415,5,Gordianus,,,Capelianus
+,,,,Capelianus,,,
+Abrittus - 251 AD,251.0,416,6,Roman,,,Goths
+,,,,Goths,,,
+Edessa - 259 AD,259.0,417,6,Roman,,,Persian
+,,,,Persian,,,
+Naissus - 268 AD,268.0,418,7,Roman,2,7,Roman
+,,,,Goths,5,7,
+Placentia - 271 AD,271.0,419,5,Roman,,,Alemanni
+,,,,Alemanni,,,
+Fano - 271 AD,271.2,420,6,Roman,,,Roman
+,,,,Alemanni,,,
+Pavia - 271 AD,271.6,421,6,Roman,,,Roman
+,,,,Alemanni,,,
+Immae - 272 AD,272.0,422,6,Roman,,,Roman
+,,,,Palmyrene,,,
+Milvian Bridge - 312 AD,312.0,423,9,Maxentius,4,2,Constantine
+,,,,Constantine,9,9,
+Cibalae - 314 AD,314.0,424,8,Constantine,,,Constantine
+,,,,Licinius,,,
+Hysiae - 669 BC,-669.0,601,6,Spartan,,,Argive
+,,,,Argive,,,
+Thyreatis (300 Champions) - 545 BC,-545.0,602,5,Spartan,,,Spartan
+,,,,Argive,,,
+Sepeia - 494 BC,-494.0,603,6,Spartan,,,Spartan
+,,,,Argive,,,
+Thermopylae (Middle Gate) - 480 BC,-480.0,604,10,Greek,,,Persian
+,,,,Persian,,,
+Thermopylae (Grand Overview) - 480 BC,-480.0,605,6,Greek,,,Persian
+,,,,Persian,,,
+Plataea - 479 BC,-479.0,606,6,Greek,,,Greek
+,,,,Persian,,,
+Mycale - 479 BC,-479.0,607,5,Greek,,,Greek
+,,,,Persian,,,
+Tanagra - 457 BC,-457.0,608,6,Spartan,,,Spartan
+,,,,Athenian,,,
+Olpae - 426 BC,-426.0,609,6,Spartan,,,Athenian
+,,,,Athenian,,,
+Sphacteria - 425 BC,-425.0,610,6,Spartan,,,Athenian
+,,,,Athenian,,,
+Delium - 424 BC,-424.0,611,6,Boeotian,,,Boeotian
+,,,,Athenian,,,
+Amphipolis - 422 BC,-422.0,612,6,Spartan,,,Spartan
+,,,,Athenian,,,
+Mantinea - 418 BC,-418.0,613,8,Spartan,,,Spartan
+,,,,Argive,,,
+Anapus River - 415 BC,-415.0,614,6,Syracusan,,,Athenian
+,,,,Athenian,,,
+Phyle - 404 BC,-404.0,615,4,Spartan,,,Athenian
+,,,,Athenian,,,
+Munychia - 404 BC,-404.0,616,5,Spartan,,,Athenian
+,,,,Athenian,,,
+Piraeus - 403 BC,-403.0,617,6,Spartan,,,Spartan
+,,,,Athenian,,,
+River Centrites - 401 BC,-401.0,618,7,Spartan,,,Armenian
+,,,,Armenian,,,
+Nemea - 394 BC,-394.0,619,5,Spartan,,,Spartan
+,,,,Greek,,,
+Coronea - 394 BC,-394.0,620,8,Spartan,,,Spartan
+,,,,Greek,,,
+Lechaeum - 391 BC,-391.0,621,3,Spartan,,,Athenian
+,,,,Athenian,,,
+Tegyra - 375 BC,-375.0,622,3,Spartan,,,Theban
+,,,,Theban,,,
+Leuctra - 371 BC,-371.0,623,5,Spartan,,,Theban
+,,,,Theban,,,
+Mantinea - 362 BC,-362.0,624,6,Spartan,,,Theban
+,,,,Theban,,,
+Chaeronea - 338 BC,-338.0,625,6,Greek,,,Macedonian
+,,,,Macedonian,,,
+Megalopolis - 331 BC,-331.0,626,7,Spartan,,,Macedonian
+,,,,Macedonian,,,
+Agrigentum - 262 BC,-262.0,C3i01,7,Roman,,,Roman
+,,,,Carthage,,,
+Adys - 256 BC,-256.0,C3i02,5,Roman,,,Roman
+,,,,Carthage,,,
+Panormus - 250 BC,-250.0,C3i03,6,Roman,6,6,Roman
+,,,,Carthage,1,3,
+Orongis - 212 BC,-212.0,C3i04,6,Roman,1,6,Roman
+,,,,Carthage,2,6,
+Celtiberia - 207 BC,-207.0,C3i05,5,Roman,,,Roman
+,,,,Carthage,,,
+Po River - 203 BC,-203.0,C3i06,7,Roman,,,Roman
+,,,,Carthage,,,
+Iliturgi - 215 BC,-215.0,C3i07,8,Roman,,,Roman
+,,,,Carthage,,,
+Cissa - 218 BC,-218.0,C3i08,6,Roman,,,Roman
+,,,,Carthage,,,
+Castrum Album - 214 BC,-214.0,C3i09,6,Roman,,,Carthage
+,,,,Carthage,,,
+Umbria - 217 BC,-217.0,C3i10,5,Roman,,,Carthage
+,,,,Carthage,,,
+Agathocles' Tower - 204 BC,-204.0,C3i11,5,Roman,,,Roman
+,,,,Carthage,,,
+Cirta - 203 BC,-203.0,C3i12,5,Roman,,,Roman
+,,,,Numidian,,,
+Caralis - 215 BC,-215.0,C3i13,8,Roman,,,Roman
+,,,,Carthage,,,
+Himeras River - 211 BC,-211.0,C3i14,6,Roman,,,Roman
+,,,,Carthage,,,
+Utica: Rebel Camp - 241 BC,-241.0,TW1,6,Rebel Army,6,1,Rebel Army
+,,,,Carthage,6,3,
+Battle of Utica - 240 BC,-240.2,TW2,5,Rebel Army,4,5,Carthage
+,,,,Carthage,1,5,
+Hippacritae - 240 BC,-240.0,TW3,5,Rebel Army,5,2,Carthage
+,,,,Carthage,5,3,
+Hannibal's Camp - 238 BC,-238.2,TW4,5,Rebel Army,3,5,Rebel Army
+,,,,Carthage,2,5,
+Leptis - 238 BC,-238.0,TW5,6,Rebel Army,5,6,Carthage
+,,,,Carthage,2,6,

@@ -1,0 +1,80 @@
+---
+title: "C&C: Ancients Descriptive Statistics"
+date: "9/5/15"
+output: html_document
+---
+
+```{r, echo=FALSE, warning=FALSE}
+#set temp directory
+setwd("C:/Users/Matt/Dropbox/github/command_colors_analysis")
+
+#read in clean data
+d = read.csv('c_c_clean_data.csv', header = T)
+```
+
+We've played 28 scenarios -- ~19% of the scenarios available. 
+
+A player wins a match by scoring more flags than the opponent over the course of playing each side.
+
+Each match has a total number of flags that can be won by the winning player. For example, if the victory condition is  6 flags, then the match victor can acquire a maximum of 12 flags in the match by winning with both armies. Such a victory is called a total victory. In contrast, marginal victories occur when the match victor wins one battle and loses the other but nonetheless won more flags than the opponent in the match.
+
+Which player has won more matches, and how many wins were total victories? The table below shows Matt won 10 matches to Steve's 18. Interestingly, there is no difference in the rates of total victories by player -- about 70% of both players' victories were total victories.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+d$max = apply(d[,c(3, 4)], 1, max)
+d$total[d$bfv == d$max] = "Yes"
+d$total = ifelse(is.na(d$total), "No", d$total)
+
+tab = table(d$win, d$total)
+addmargins(tab)
+prop.table(tab, 1)
+```
+
+
+We can calculate the percentage of possible flags won by each player for each match. A score of 1 indicates a total victory. But how did each player score when winning marginally or when losing? The following dotplots describe the distribution of scores for each player. Each dot represents a match, and the dots are colored by the match winner. Both players managed to score some marginal victories with scores of between 0.7 and 0.9.        
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.width = 10, fig.height = 10}
+require(ggplot2)
+require(gridExtra)
+m = ggplot(d, aes(x = matt_per, fill = factor(win))) + geom_dotplot(dotsize = 1) + xlim(c(0.2, 1)) + ylim(c(0, 0.75)) +
+    labs(title = "Distribution of Matt's Scores by Match Outcome",
+         x =  "Matt's Scores",
+         y = "% Matches")  
+m = m + scale_fill_discrete(name = "Winner") + coord_fixed(ratio = 0.5) 
+
+s = ggplot(d, aes(x = steve_per, fill = factor(win))) + geom_dotplot(dotsize = 1) + xlim(c(0.2, 1)) + ylim(c(0, 0.75)) +
+    labs(title = "Distribution of Steve's Scores by Match Outcome",
+         x =  "Steve's Scores",
+         y = "% Matches")
+s = s + scale_fill_discrete(name = "Winner") + coord_fixed(ratio = 0.5) 
+
+grid.arrange(m, s, ncol = 1)
+```
+
+But how competitive were the matches? For each loss, we can calculate by how many percentage points each player lost. The plot below shows estimates of the distribution of these loss differentials by player.   
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, results='hide'}
+matt_lose = d[, c(5, 6, 7)]
+attach(matt_lose)
+matt_lose = matt_lose[ which(win == "steve"), c(2, 3)]
+m_diff = matt_lose$steve_per - matt_lose$matt_per 
+
+steve_lose = d[, c(5, 6, 7)]
+attach(steve_lose)
+steve_lose = steve_lose[ which(win == "matt"), c(2, 3)]
+s_diff = steve_lose$matt_per - steve_lose$steve_per 
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE}
+plot(density(m_diff), xlim = c(0,1), ylim = c(0,2), main = "Distribution of Loss Differentials",
+     xlab = "Loss Differential (percentage points)", col = "red")
+par(new = T)
+plot(density(s_diff), xlim = c(0,1), ylim = c(0,2), main = "", xlab = "", ylab = "", col = "blue")
+
+legend(x = 0.05, y = 2,
+       legend = c('matt', 'steve'),
+       lty = 1, lwd = 3.5, col = c('red', 'blue'), bty = 'n')
+```
+
+Both probability distributions are bimodal, suggesting that losses can be generally classified as either close matches or blowouts. Interestingly, when Steve gets blown out, it tends to be a more severe blowout.     
+
